@@ -1,2 +1,2 @@
 # first-website
-a basic website about the assassins creed franchine
+a basic website about the assassins creed franchise
